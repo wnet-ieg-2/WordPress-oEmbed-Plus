@@ -4,7 +4,7 @@ Tags: embed, facebook, instagram, oembed
 Requires at least: 5.4
 Tested up to: 5.5
 Stable tag: 1.2
-Requires PHP: 7.3
+Requires PHP: 7.2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -27,7 +27,7 @@ Detailed setup instructions are available in [oEmbed Plus guide at PHP.Watch](ht
 Yes, but only in versions prior to 5.5.1, and it uses a legacy API that will stops on October 24, 2020.
 See [#50861](https://core.trac.wordpress.org/ticket/50861) for more information.
 
-= This version requires PHP 7.3 =
+= This version requires PHP 7.2 =
 
 Yes, and that is intentional. You really should be using a modern PHP version.
 
